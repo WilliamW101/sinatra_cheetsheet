@@ -1,0 +1,33 @@
+body {
+  background-color: #380702;
+  color: #E5E5E5;
+}
+
+a:hover {
+  text-decoration: line-through;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  /*color: #E5E5E5;*/
+}
+
+.home-button {
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+.center-text {
+  text-align: center;
+}
+
+div {
+  padding: 15px 40px 50px 30px;
+}
+
+.google {
+  float: right;
+  font-size: 15px;
+  padding: 10px;
+}

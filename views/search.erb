@@ -1,0 +1,8 @@
+<h3 class='center-text'> What would you like the manpage for? </h3>
+
+<div> <%= @search %> </div>
+
+<form method='POST' action='/search' class='center-text'>
+  <input type='text' name='input' required />
+  <input type='submit' />
+</form>
